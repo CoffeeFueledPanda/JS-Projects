@@ -4,5 +4,7 @@
 
 * Form validator
   * Validates entries and checks for required input
+* Movie seat booking
+  * Seat selection and calculation of ticket/movie price, local storage using JSON
 
 > By CoffeeFueledPanda
