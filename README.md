@@ -9,5 +9,8 @@
   * Live preview: [netlify link](https://movie-seat-booking-preview-coffeefueledpanda.netlify.app/)
 * HTML 5 custom video player
   * A custom HTML5 video player, made using 'Open fonts' and regular JS.
+* Exchange rate calculator
+  * Calculates the exchange rate between various world-currencies using an open-source API
+  * Live preview: [netlify link](https://exchange-rate-calculator-coffeefueledpanda.netlify.app/)
 
 > By CoffeeFueledPanda
