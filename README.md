@@ -12,5 +12,9 @@
 * Exchange rate calculator
   * Calculates the exchange rate between various world-currencies using an open-source API
   * Live preview: [netlify link](https://exchange-rate-calculator-coffeefueledpanda.netlify.app/)
+* DOM array methods
+  * Examples of array methods in the form of a comparing app for millionaires
+  * Uses the Random user generator [link to](https://randomuser.me/)
+  * Live preview: [netlify link](https://dom-array-methods-millionairesapp-coffeefueledpanda.netlify.app/)
 
 > By CoffeeFueledPanda
