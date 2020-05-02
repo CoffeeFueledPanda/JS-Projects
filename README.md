@@ -23,7 +23,7 @@
   * A cruel game where some poor guy is getting hung, if you get the letters wrong
   * Live preview: [netlify link](https://hangman-game-coffeefueledpanda.netlify.app/)
 * Meal Finder
-  * Uses the 'TheMealDB' to find some tasty meals, included a description and a list of ingredients
+  * Uses the 'TheMealDB' to find some tasty meals, including a description and a list of ingredients
   * Live preview: [netlify link](https://meal-finder-coffeefueledpanda.netlify.app/)
 
 > By CoffeeFueledPanda
