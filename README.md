@@ -25,5 +25,11 @@
 * Meal Finder
   * Uses the 'TheMealDB' to find some tasty meals, including a description and a list of ingredients
   * Live preview: [netlify link](https://meal-finder-coffeefueledpanda.netlify.app/)
-
+* Expense Tracker
+  * A way to keep an eye on your expenses, storing the information locally
+  * Live preview: [netlify link](https://expense-tracker-coffeefueledpanda.netlify.app/)
+* Music Player
+  * A web-based music player, currently with three songs
+    * Both the songs and images are property of their respective authors
+  * Live preview: [netlify link](https://music-player-coffeefueledpanda.netlify.app/)
 > By CoffeeFueledPanda
