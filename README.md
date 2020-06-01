@@ -35,4 +35,5 @@
 * Infinite Scroll Blog Posts
   * A blog example with loader and fetching posts from an API
   * API used is <https://jsonplaceholder.typicode.com/>
+
 > By CoffeeFueledPanda
