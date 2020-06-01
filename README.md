@@ -32,4 +32,7 @@
   * A web-based music player, currently with three songs
     * Both the songs and images are property of their respective authors
   * Live preview: [netlify link](https://music-player-coffeefueledpanda.netlify.app/)
+* Infinite Scroll Blog Posts
+  * A blog example with loader and fetching posts from an API
+  * API used is <https://jsonplaceholder.typicode.com/>
 > By CoffeeFueledPanda
