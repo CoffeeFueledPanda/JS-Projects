@@ -1,0 +1,138 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@500&display=swap');
+
+/* Photo by Thanos Pal on Unsplash */
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background: #224941 url('./img/thanos-pal-vb-hPUzfpBo-unsplash.jpg') no-repeat
+    center center/cover;
+  color: #fff;
+  font-family: 'Ubuntu', sans-serif;
+  min-height: 100vh;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 0;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 300px;
+  width: 300px;
+  margin: auto;
+  position: relative;
+  transform: scale(1);
+}
+
+.circle {
+  background: repeating-radial-gradient(
+    circle at 0 0,
+    rgb(28, 63, 59, 0.9),
+    rgba(18, 18, 26, 0.9) 60px
+  );
+  height: 100%;
+  width: 100%;
+  border-radius: 50%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: -1;
+}
+
+.gradient-circle {
+  background: rgb(240, 249, 255); /* Old browsers */
+  background: -moz-radial-gradient(
+    center,
+    ellipse cover,
+    rgba(240, 249, 255, 1) 0%,
+    rgba(203, 235, 255, 1) 47%,
+    rgba(161, 219, 255, 1) 100%
+  ); /* FF3.6-15 */
+  background: -webkit-radial-gradient(
+    center,
+    ellipse cover,
+    rgba(240, 249, 255, 1) 0%,
+    rgba(203, 235, 255, 1) 47%,
+    rgba(161, 219, 255, 1) 100%
+  ); /* Chrome10-25,Safari5.1-6 */
+  background: radial-gradient(
+    ellipse at center,
+    rgba(240, 249, 255, 1) 0%,
+    rgba(203, 235, 255, 1) 47%,
+    rgba(161, 219, 255, 1) 100%
+  ); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f0f9ff', endColorstr='#a1dbff',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+  height: 320px;
+  width: 320px;
+  position: absolute;
+  top: -10px;
+  left: -10px;
+  z-index: -2;
+  border-radius: 50%;
+}
+
+/* .pointer-container {
+  position: absolute;
+  top: -40px;
+  left: 140px;
+  width: 20px;
+  height: 190px;
+  animation: rotate 7.5s linear forwards infinite;
+  transform-origin: bottom center;
+}
+
+.pointer {
+  background-color: #fff;
+  border-radius: 50%;
+  height: 20px;
+  width: 20px;
+  display: block;
+} */
+
+.container.grow {
+  animation: grow 3s linear forwards;
+}
+
+.container.shrink {
+  animation: shrink 3s linear forwards;
+}
+
+#text {
+  font-size: 45px;
+}
+
+/* @keyframes rotate {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+} */
+
+@keyframes grow {
+  from {
+    transform: scale(1);
+  }
+
+  to {
+    transform: scale(1.2);
+  }
+}
+
+@keyframes shrink {
+  from {
+    transform: scale(1.2);
+  }
+
+  to {
+    transform: scale(1);
+  }
+}
