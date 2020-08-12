@@ -39,5 +39,6 @@
   - Still a work in progresss
   - (Photo by Thanos Pal on Unsplash)
   - Live preview: [netlify link](https://breathe-relax-app-coffeefueledpanda.netlify.app/)
-
+- Color Guessing Game
+  - A game where you have to find the corresponding rgb color.
 > By CoffeeFueledPanda
