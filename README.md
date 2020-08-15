@@ -1,3 +1,4 @@
+[![GitHub license](https://img.shields.io/github/license/CoffeeFueledPanda/JS-Projects)](https://github.com/CoffeeFueledPanda/JS-Projects/blob/master/LICENSE)
 # JS-Projects
 
 ## A small collection of JS projects
