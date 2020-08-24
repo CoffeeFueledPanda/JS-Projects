@@ -42,5 +42,7 @@
   - (Photo by Thanos Pal on Unsplash)
   - Live preview: [netlify link](https://breathe-relax-app-coffeefueledpanda.netlify.app/)
 - Color Guessing Game
-  - A game where you have to find the corresponding rgb color.
+  - A game where you have to find the corresponding rgb color
+- ToDo App
+  - A ToDo app using jQuery and Fork Awesome
 > By CoffeeFueledPanda
