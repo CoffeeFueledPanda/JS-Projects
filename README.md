@@ -45,4 +45,5 @@
   - A game where you have to find the corresponding rgb color
 - ToDo App
   - A ToDo app using jQuery and Fork Awesome
+  - Live preview: [netlify link](https://todo-app-coffeefueledpanda.netlify.app/)
 > By CoffeeFueledPanda
