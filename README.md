@@ -1,3 +1,5 @@
+[![GitHub license](https://img.shields.io/github/license/CoffeeFueledPanda/JS-Projects)](https://github.com/CoffeeFueledPanda/JS-Projects/blob/master/LICENSE)
+[![Netlify](https://img.shields.io/badge/Hosted%20on-Netlify-blue)](https://www.netlify.com/)
 # JS-Projects
 
 ## A small collection of JS projects
